@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="nyla.solutions.global.patterns.command.ProxyCommandTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-04-29T19:20:52" hostname="MacBook-Pro-5.local" time="0.001">
+  <properties/>
+  <testcase name="testExecute" classname="nyla.solutions.global.patterns.command.ProxyCommandTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
